@@ -67,3 +67,17 @@ services:
 ## Données en bases chiffrées
 
 ![image1](img1.png)
+
+## Ressources
+
+Utilisation Halite 
+- https://stackoverflow.com/a/52660108
+
+Utilisation d'un custom type + hack du service déguisé en listener
+- https://stackoverflow.com/a/51184819
+
+Symfony / Doctrine custom type
+- https://symfony.com/doc/current/doctrine/dbal.html#registering-custom-mapping-types
+- https://www.doctrine-project.org/projects/doctrine-orm/en/2.7/cookbook/custom-mapping-types.html
+- https://www.doctrine-project.org/projects/doctrine-dbal/en/latest/reference/types.html#custom-mapping-types
+
